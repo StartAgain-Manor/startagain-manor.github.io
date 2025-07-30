@@ -1,0 +1,14 @@
+---
+title: Title Here
+date: Date of Post here in YYYY-MM-DD
+categories: [TOP_CATEGORY, SUB_CATEGORY]
+tags: [TAG]     # TAG names should always be lowercase
+description: Short Description
+
+image:
+  path: assets/img/FILLOUTRESTOFPATHHERE
+  alt: Alt Text Here
+---
+
+THE FILE NAME SHOULD BE YYYY-MM-DD-TheNameOfThePost.md
+Content Here
