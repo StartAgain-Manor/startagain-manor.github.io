@@ -3,7 +3,7 @@ title: The New Job
 date: 2020-11-11
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
-description: In this full-length, 53k word novel, Max a gay 19-year-old golden retriever, applies to a mysterious help wanted ad in an effort to break up the boredom of his first year of college. Little does he realize the unusual, sexually charged duties his new job entails. Will fear and self-doubt force Max to back out of this unexpected new life? Or will he follow his heart (and his cock) and let handsome wolf Stephen lead him into a strange new world?
+description: In this full-length, 53k word novel, Max a gay 19-year-old golden retriever, applies to a mysterious help wanted ad in an effort to break up the boredom of his first year of college. Little does he realize the unusual, sexually charged duties his new job entails. Will fear and self-doubt force Max to back out of this unexpected new life? Or will he follow his heart and his cock and let handsome wolf Stephen lead him into a strange new world?
 image:
   path: assets/img/books/The New Job.jpg
   alt: The New Job book cover
