@@ -1,5 +1,6 @@
 ---
 title: The New Job
+author: 1 
 date: 2020-11-11
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase

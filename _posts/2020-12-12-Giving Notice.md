@@ -1,6 +1,7 @@
 ---
 title: Giving Notice
 date: 2020-12-12
+author: 1 
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
 description: In this full-length, 72,000+ word sequel to The New Job, we rejoin Max, a gay nineteen year-old golden retriever, plus friends Stephen, Corey, Seventeen, Connie, Mr. Warren, and many more diverse, kinky residents of StartAgain Manor, to pick up right where The New Job left off!
