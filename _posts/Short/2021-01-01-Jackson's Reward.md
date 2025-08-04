@@ -8,7 +8,7 @@ tags: [Short]
 Jackson Young squinted and rubbed the spot between his eyes, sighing a stressed, ragged sigh. He opened up the email program on his laptop and began typing a message to his boss.
 
 
-<br>
+
 ```
 From: Jackson <jyoung(@)startagainmanor.com>
 
@@ -34,7 +34,7 @@ The husky yawned and stretched. He’d spent the last several hours fighting a h
 
 His laptop made a pleasant pinging sound, indicating he’d received an email. The husky was surprised that the Master had responded so quickly. He read the message.
 
-<br>
+
 ```
 From: The Master <Master(@)startagainmanor.com>
 
