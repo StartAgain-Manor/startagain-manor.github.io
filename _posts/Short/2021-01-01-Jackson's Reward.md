@@ -48,7 +48,7 @@ Nicely done! We appreciate all of your hard work, and I know this month has been
 
 The Master
 ```
-{:file="Email From: The Master}
+{:file="Email From: The Master"}
 
 <br>
 
