@@ -9,6 +9,7 @@ Jackson Young squinted and rubbed the spot between his eyes, sighing a stressed,
 
 
 <br>
+```
 From: Jackson <jyoung(@)startagainmanor.com>
 
 To: The Master <Master(@)startagainmanor.com>
@@ -24,6 +25,8 @@ I’m going to comb through the logs tomorrow morning, when I can look at them w
 If it’s alright, I think I’m going to clock off and leave Jerome to handle things from here.
 
 Jackson
+```
+{:file="Email To: The Master" }
 
 <br>
 
@@ -32,7 +35,7 @@ The husky yawned and stretched. He’d spent the last several hours fighting a h
 His laptop made a pleasant pinging sound, indicating he’d received an email. The husky was surprised that the Master had responded so quickly. He read the message.
 
 <br>
-
+```
 From: The Master <Master(@)startagainmanor.com>
 
 To: Jackson <jyoung(@)startagainmanor.com> 
@@ -44,6 +47,8 @@ Jackson,
 Nicely done! We appreciate all of your hard work, and I know this month has been particularly stressful. Report to the rec wing weight room for a reward. Immediately.
 
 The Master
+```
+{:file="Email From: The Master}
 
 <br>
 
