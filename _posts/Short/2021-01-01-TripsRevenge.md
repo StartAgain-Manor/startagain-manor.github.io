@@ -3,7 +3,6 @@ title: Trip's Revenge
 date: 2021-01-01
 author: ck
 tags: [Short]
-description: BEEP
 ---
 # Chapter 1
 Trip Hutchison opened the door to his locker and sighed to himself. Defying all logic, it was 
