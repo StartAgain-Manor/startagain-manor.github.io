@@ -1,3 +1,10 @@
+# Howdy!
+If you are reading this, you have stumbpled upon the source for C.K. Crinkekids website!
+No PR's or issues will be aceppted. 
+You are mote then welcome to take a peak around however!
+
+
+# Old Readme!
 # Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
